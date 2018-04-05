@@ -1,2 +1,0 @@
-# SequenceSearch
-# SequenceSearch-Kazemi
